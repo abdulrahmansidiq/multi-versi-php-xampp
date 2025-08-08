@@ -54,16 +54,16 @@
 ### 🎯 LANGKAH-LANGKAH
 
 1. **BUKA CONTROL PANEL**
-   ![gambar1](https://github.com/abdulrahmansidiq/multi-versi-php-xampp/blob/main/1.png)
+   ![gambar1](https://github.com/abdulrahmansidiq/multi-versi-php-xampp/blob/main/image/1.png)
 
 2. **KLIK TOMBOL CONFIG APACHE**
-   ![gambar2](https://github.com/abdulrahmansidiq/multi-versi-php-xampp/blob/main/2.png)
+   ![gambar2](https://github.com/abdulrahmansidiq/multi-versi-php-xampp/blob/main/image/2.png)
 
 3. **TEMPELKAN SCRIPT DI FILE CONFIG APACHE "httpd-xampp.conf" YANG ADA DIBAWAH INI SESUAI KEINGINAN KALIAN**
-   ![gambar3](https://github.com/abdulrahmansidiq/multi-versi-php-xampp/blob/main/3.png)
+   ![gambar3](https://github.com/abdulrahmansidiq/multi-versi-php-xampp/blob/main/image/3.png)
 
 4. **JALANKAN APACHE DAN MYSQL DI CONTROL PANEL XAMPP**
-   ![gambar4](https://github.com/abdulrahmansidiq/multi-versi-php-xampp/blob/main/4.png)
+   ![gambar4](https://github.com/abdulrahmansidiq/multi-versi-php-xampp/blob/main/image/4.png)
 
 ---
 
